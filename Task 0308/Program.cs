@@ -1,4 +1,5 @@
 ﻿// Задайте две матрицы. Напишите программу, которая будет находить произведение двух матриц.
+
 void FillArray(int[,] array, int[,] array1)
 {
     for (int i = 0; i < array.GetLength(0); i++)
